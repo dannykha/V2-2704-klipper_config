@@ -18,7 +18,8 @@ Klipper configs for this printer running fluidd.
 
 # Tuning Notes
 
-// to do
+Utilizing * [Andrew Ellis Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide) for all my tuning needs.
+
 
 # Printer Mods
 
