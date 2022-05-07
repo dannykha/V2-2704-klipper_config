@@ -10,16 +10,23 @@ Klipper configs for this printer running fluidd.
 # Table of Contents 
 - [Macros](#macros)
 - [Tuning Notes](#tuning-notes)
+- [To-Do Notes](#to-do-notes)
 - [Printer Mods](#printer-mods)
 
 # Macros
 
-// to do
+My print_start command consists of most of the macros I utilize on a daily. The only other ones are load/unlaod filaments.
+Automatic Z calibration is very nice and has gotten me very consistent first layer prints with the Klicky Probe.
 
 # Tuning Notes
 
 Utilizing [Andrew Ellis Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide) for all my tuning needs.
 
+# To-Do Notes
+
+* Redo the magnetic sheet on the bed. Will get better first layer? Mesh varience currently at 0.1836 which is okay but could be better!
+* Stealthburner.
+* LGX Lite vs Oribter 2.0 test.
 
 # Printer Mods
 
